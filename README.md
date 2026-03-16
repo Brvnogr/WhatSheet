@@ -1,4 +1,4 @@
-# WhatSheet
+# <img src="WhatSheet.png" width="350">
 🤖 Bot de WhatsApp integrado com planilhas .xlsx e banco SQL, feito com a biblioteca Baileys.
 
 ## ⚙️ Funcionalidades
